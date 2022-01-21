@@ -59,7 +59,7 @@ You will need to provide parameters for all of the features of your crowdsale, s
 ![contract](https://github.com/shrutib55/advanced-solidity-hw/blob/main/Screenshots/Screen%20Shot%202022-01-21%20at%209.46.43%20AM.png)
 
 
-
+![contract](https://github.com/shrutib55/advanced-solidity-hw/blob/main/Screenshots/Screen%20Shot%202022-01-21%20at%209.54.11%20AM.png)
 
 
 
